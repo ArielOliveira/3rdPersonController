@@ -20,3 +20,4 @@ A 3rd Person Character Controller made in Unity3D
 - 3rd Person Character Controller
           
 ## Demo
+- Video Clip: https://drive.google.com/file/d/1byeqoTa5tCr1_ioLzsNoD0a2vdFMdS8E/view?usp=sharing
