@@ -1,4 +1,4 @@
-<img src="https://github.com/ArielOliveira/3rdPersonController/blob/master/demo/Main.jpg" width="1000" height="150">
+<img src="https://github.com/ArielOliveira/3rdPersonController/blob/master/demo/MainWide.jpg" width="700" height="200">
 
 # 3rdPersonController
 A 3rd Person Character Controller made in Unity3D
