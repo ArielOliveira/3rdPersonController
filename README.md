@@ -1,4 +1,4 @@
-<img src="./demo/MainWide.jpg" width="350" height="180"><img src="./demo/charlottedemo.gif" width="350" height="180">
+<img src="./demo/MainWide.jpg" width="350" height="180"> <img src="./demo/charlottedemo.gif" width="350" height="180">
 
 # 3rdPersonController
 A 3rd Person Character Controller made in Unity3D
